@@ -1,0 +1,68 @@
+.t-intro {
+  font-size: 60px;
+  font-weight: 700;
+  font-style: normal;
+  color: #000;
+}
+
+.t-title-article-main {
+  font-size: 45px;
+  font-weight: 700;
+  font-style: normal;
+  color: #2d3748;
+}
+.t-title-section-bottom {
+  font-size: 40px;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+}
+.t-title-section-central {
+  font-size: 30px;
+  font-weight: 700;
+  font-style: normal;
+  color: #2d3748;
+}
+.t-title-section-middle {
+  font-size: 20px;
+  font-weight: 700;
+  font-style: normal;
+  color: #2d3748;
+}
+.t-title-article-author {
+  font-size: 18px;
+  font-weight: 700;
+  font-style: normal;
+  color: #2d3748;
+}
+.t-section-bottom-link {
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  color: #000;
+}
+.t-section-central-link {
+  font-size: 12px;
+  font-weight: 700;
+  font-style: normal;
+  color: #2d3748;
+}
+.t-regular-intro-span {
+  font-size: 30 px;
+  font-weight: 400;
+  font-style: normal;
+  color: #4a5568;
+}
+.t-regular-article {
+  font-size: 14 px;
+  font-weight: 400;
+  font-style: normal;
+  color: #718096;
+}
+.t-regular-article-footer {
+  font-size: 12 px;
+  font-weight: 400;
+  font-style: normal;
+  color: #718096;
+}
+>>>>>>> e5e278feb909683ad18531cd61889d59baf1e50c
