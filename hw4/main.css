@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+}
+
+.box-red,
+.box-gold,
+.box-violet {
+  width: 130px;
+  height: 130px;
+}
+
+.box-violet {
+  background-color: violet;
+}
+
+.box-gold {
+  background-color: gold;
+  /* border-radius: 10px; */
+  /* display: inline-block; */
+  /* margin-left: 30px; */
+}
+
+.box-red {
+  background-color: red;
+  border: 5px solid green;
+  border-radius: 50%;
+  /* display: none; */
+  /* padding: 20px;
+  padding: 20px 30px;
+  padding: 20px 30px 40px;
+  padding: 20px 30px 40px 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px; */
+
+  /* margin: 20px;
+  margin: 20px 30px;
+  margin: 20px 30px 40px;
+  margin: 20px 30px 40px 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px; */
+
+  /* margin-bottom: 30px; */
+
+  /* margin-right: 30px; */
+
+  /* margin-top: 40px; */
+  /* display: inline-block; */
+}
+
+.string {
+  background-color: red;
+  /* display: inline; */
+  /* display: block; */
+}
+
+.img {
+  width: 300px;
+  /* float: left; */
+}
+
+section {
+  background-color: black;
+}
+
+.box-gold {
+  float: right;
+}
+
+.box-violet {
+  float: left;
+}
+
+.clearfix {
+  /* height: 40px;
+  background-color: red;
+  opacity: 0.5; */
+  clear: both;
+}
+
+.container {
+  width: 965px;
+  margin: 0 auto;
+  background-color: gold;
+}
+
+.post {
+  width: 32.5%;
+  background-color: red;
+  /* opacity: 0.4; */
+  float: left;
+  margin: 0px 0px 0px 10px;
+}
+
+.box {
+  margin-left: -10px;
+}
