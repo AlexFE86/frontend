@@ -182,14 +182,8 @@ const totalPrice = products.reduce((acc, curr) => {
     return (acc += curr.price);
 }, 0);
 
-let newId = products.length + 1
-
-products.push({
-    id: newId,
-    name: "totalPrice",    
-    price: totalPrice})
+products.push({totalPrice})
 
 console.log(totalPrice);
 console.log(products);
-console.log(products.length);
 
